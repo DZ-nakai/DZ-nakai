@@ -110,6 +110,15 @@ faster-whisper / WhisperX / pyannote-audio / Hugging Face / OpenAI API / Anthrop
 
 ---
 
+## 📝 Articles
+
+### Zenn
+- [AIでプロダクトを作っている当事者から見た、炎上の話](https://zenn.dev/y_nakai/articles/0ee7e7059e2a04) *(2026-03)*
+
+> [📚 すべての記事を見る](https://zenn.dev/y_nakai)
+
+---
+
 ## 📬 Contact
 
 <p align="left">
