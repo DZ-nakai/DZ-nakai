@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=Yuto%20Nakai&fontSize=70&fontColor=ffffff&desc=Full-Stack%20Engineer%20%2F%20DouZin%20Inc.&descSize=22&descAlignY=72" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=y.nakai&fontSize=70&fontColor=ffffff&desc=Full-Stack%20Engineer%20%2F%20DouZin%20Inc.&descSize=22&descAlignY=72" alt="header" />
 
-# 👋 中井 悠人 (Yuto Nakai)
+# 👋 y.nakai
 
 株式会社同人 (DouZin Inc.) でフルスタックエンジニアとして活動しています。
 フロントエンドからバックエンド、AI 統合、自動化基盤の構築まで一気通貫で対応します。
