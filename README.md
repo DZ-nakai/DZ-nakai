@@ -7,6 +7,7 @@
 
 - 🏢 **株式会社同人 (DouZin Inc.)** 所属
 - 💼 受託開発・技術相談を承っています
+- 🌱 自社サービス [**GreenHorn**](https://greenhorn.app) 運営（漫画・イラストコミッションマッチング）
 - 🤖 LLM エージェント（Claude Code / Codex CLI）の運用設計
 - 🎙️ AI 音声処理（文字起こし・話者分離）プロダクト開発
 - 📍 日本
@@ -87,6 +88,25 @@ faster-whisper / WhisperX / pyannote-audio / Hugging Face / OpenAI API / Anthrop
 - 企画・設計・実装・配布まで単独で担当
 
 [![Sasayaki](https://github-readme-stats.vercel.app/api/pin/?username=DouZin-Inc&repo=sasayaki-transcriber&theme=tokyonight&hide_border=true)](https://github.com/DouZin-Inc/sasayaki-transcriber)
+
+---
+
+## 🌐 運用中のサービス
+
+### [GreenHorn](https://greenhorn.app) — 漫画・イラストコミッションマッチングサービス
+
+> 「漫画という選択肢で、伝える」 — 個人の想いや企業のストーリーを、漫画という形式で読者に届けるためのプラットフォーム。
+
+- 🎨 **クリエイター検索 / ポートフォリオ表示**
+- 📋 **依頼掲示板**（探す / 作成する）
+- 🪜 **マイルストーン管理 + エスクロー決済**
+- 🏆 **作品・クリエイターランキング**
+- 💬 **直接依頼 / 受付状況の可視化**
+
+[![App](https://img.shields.io/badge/App-greenhorn.app-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://greenhorn.app)
+[![LP](https://img.shields.io/badge/LP-lp.greenhorn.app-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lp.greenhorn.app)
+
+**Stack**: Next.js / TypeScript / React / Tailwind / Discord Bot 連携 / 自社運用
 
 ---
 
