@@ -102,11 +102,9 @@ faster-whisper / WhisperX / pyannote-audio / Hugging Face / OpenAI API / Anthrop
   <a href="https://x.com/douzin_nakai" target="_blank">
     <img src="https://img.shields.io/badge/X-%40douzin__nakai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <!-- TODO: Zenn のユーザー URL を確認したら下のコメントアウトを外す
-  <a href="https://zenn.dev/REPLACE_ME" target="_blank">
+  <a href="https://zenn.dev/y_nakai" target="_blank">
     <img src="https://img.shields.io/badge/Zenn-Articles-3ea8ff?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a>
-  -->
 </p>
 
 受託開発・技術相談・お問い合わせは [メール](mailto:y.nakai@douzin.co.jp) または [X DM](https://x.com/douzin_nakai) でお気軽にどうぞ。
