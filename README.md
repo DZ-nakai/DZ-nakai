@@ -17,9 +17,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ-nakai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="DZ-nakai's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ-nakai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://readme-stats-seven-iota.vercel.app/api?username=DZ-nakai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="y.nakai's GitHub stats" />
 </p>
+
+<sub>※ 個人 repo を持っていないため、Top Languages カードは省略しています（主要な公開 repo は <a href="https://github.com/DouZin-Inc">@DouZin-Inc</a> 配下）</sub>
 
 ---
 
